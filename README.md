@@ -1,2 +1,2 @@
-# Test2016.5.10
-测试项目
+# vue-mobile-template
+
