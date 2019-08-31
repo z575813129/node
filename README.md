@@ -1,2 +1,2 @@
-# vue-mobile-template
+# this is a test project
 
